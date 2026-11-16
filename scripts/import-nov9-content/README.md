@@ -1,0 +1,1 @@
+Regenerates src/data/hospital-profiles.ts and nova-ivf-doctors.ts (+ public/hospitals/gallery, public/doctors) from hospital_list_details.docx and IVF_doctors.docx. parse.py in ../import-raunak-content/ makes the intermediate JSON. Paths inside are the original working paths - adjust before re-running. Normally not needed: edit the TS data directly.

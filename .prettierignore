@@ -1,0 +1,12 @@
+node_modules
+dist
+.output
+.vinxi
+pnpm-lock.yaml
+package-lock.json
+bun.lock
+routeTree.gen.ts
+src/data/dept-content.ts
+src/data/cost-pages.ts
+src/data/hospital-profiles.ts
+src/data/nova-ivf-doctors.ts

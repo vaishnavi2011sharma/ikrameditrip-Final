@@ -1,0 +1,1 @@
+Regenerates src/data/dept-content.ts and cost-pages.ts from Raunak's two .docx files (parse.py then gen.py). Needs python-docx and Pillow; generated output was reviewed by hand. Normally not needed - edit the TS data directly.
